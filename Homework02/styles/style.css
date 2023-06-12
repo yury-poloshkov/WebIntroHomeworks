@@ -1,0 +1,33 @@
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 2px 2px 0 2px;
+    padding: 0 10px 0 10px;
+}
+header img{
+    width: 70px;    
+}
+.logo{
+    padding: 0 12px 0 12px;
+}
+h1 {
+    font-size: 24;
+    color: rgb(38, 119, 211);
+    text-align-last: center;
+    padding: 0 24px 0 24px;
+}
+nav {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+nav li {
+    padding: 42px 10px 0 10px;
+}
