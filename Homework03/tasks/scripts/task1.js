@@ -2,6 +2,7 @@ function main_func(){
     let try_flag = true;
     do{
         let guess_film = prompt("Введите название моего любимого фильма:");
+        guess_film = guess_film.toLowerCase();
         let guessed = is_guessed(guess_film);
         switch (guessed){
             case true:
