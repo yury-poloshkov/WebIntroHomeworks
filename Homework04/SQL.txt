@@ -1,0 +1,15 @@
+-- Задача №2: создать БД, состоящую из одной таблицы (информация об одногруппниках) с четырьмя полями (добавить поле «Адрес»): id, name, age, address.
+-- create
+CREATE TABLE GROUPMATES (
+id INTEGER PRIMARY KEY AUTO_INCREMENT,
+name TEXT NOT NULL,
+age TEXT NOT NULL,
+address TEXT NOT NULL
+);
+
+-- fill
+INSERT INTO GROUPMATES (name, age, address) VALUES ('Иван', '38', 'Иваново');
+INSERT INTO GROUPMATES (name, age, address) VALUES ('Марья', '32', 'Иваново');
+INSERT INTO GROUPMATES (name, age, address) VALUES ('Аленушка', '15', 'Новгород');
+INSERT INTO GROUPMATES (name, age, address) VALUES ('Иванушка', '8', 'Новгород');
+INSERT INTO GROUPMATES (name, age, address) VALUES ('Яга', '236', 'Тьмутаракань');
