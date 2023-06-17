@@ -1,0 +1,102 @@
+<cinema_catalogue>
+    <film>
+        <name>Джон Уик 4</name>
+        <rating>7.6</rating>
+        <genre>
+            <main>Боевик</main>
+            <alternative>Триллер</alternative>
+        </genre>
+        <country>
+            <main>США</main>
+            <additional>Германия</additional>
+        </country>
+        <director>Чад Стахелски</director>
+        <year>2023</year>
+        <duration>2 ч 49 мин</duration>
+        <actors>
+            <main_male>Киану Ривз</main_male>
+            <main_female></main_female>
+            <others>Донни Йен, Билл Скарсгард</others>
+        </actors>
+    </film>
+    <film>
+        <name>Все страхи Бо</name>
+        <rating>7.1</rating>
+        <genre>
+            <main>Комедия</main>
+            <alternative>Дама</alternative>
+        </genre>
+        <country>
+            <main>США</main>
+            <additional>Великобритания</additional>
+        </country>
+        <director>Ари Астер</director>
+        <year>2023</year>
+        <duration>2 ч 59 мин</duration>
+        <actors>
+            <main_male>Хоакин Феникс</main_male>
+            <main_female>Пэтти ЛюПон</main_female>
+            <others>Эми Райан</others>
+        </actors>
+    </film>
+    <film>
+        <name>Эрнест и Селестина: Приключения мышки и медведя</name>
+        <rating>8.2</rating>
+        <genre>
+            <main>Мультфильм</main>
+            <alternative>Фэнтези</alternative>
+        </genre>
+        <country>
+            <main>Франция</main>
+            <additional>Бельгия</additional>
+        </country>
+        <director>Стефани Обье, Венсан Патар, Бенжамин Реннер</director>
+        <year>2012</year>
+        <duration>1 ч 20 мин</duration>
+        <actors>
+            <main_male>Ламбер Вильсон</main_male>
+            <main_female>Полин Брюннер</main_female>
+            <others>Энн-Мари Луп</others>
+        </actors>
+    </film>
+    <film>
+        <name>Везёт</name>
+        <rating>7.7</rating>
+        <genre>
+            <main>Комедия</main>
+            <alternative>Драма</alternative>
+        </genre>
+        <country>
+            <main>Россия</main>
+            <additional></additional>
+        </country>
+        <director>Владимир Щегольков</director>
+        <year>2021</year>
+        <duration></duration>
+        <actors>
+            <main_male>Евгений Цыганов</main_male>
+            <main_female>Светлана Ходченкова</main_female>
+            <others>Максим Лагашкин</others>
+        </actors>
+    </film>
+    <film>
+        <name>Пацанская история</name>
+        <rating>7.6</rating>
+        <genre>
+            <main>Комедия</main>
+            <alternative>Криминал</alternative>
+        </genre>
+        <country>
+            <main>Казахстан</main>
+            <additional></additional>
+        </country>
+        <director>Нурсултан Джумабеков</director>
+        <year>2022</year>
+        <duration></duration>
+        <actors>
+            <main_male>Ильяс Джапаров</main_male>
+            <main_female></main_female>
+            <others>Эльтерес Нуржанов, Шарип Серик</others>
+        </actors>
+    </film>
+</cinema_catalogue>
